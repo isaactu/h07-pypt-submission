@@ -1,1 +1,1 @@
-print(input("Give me a string and I'll capitalize it").upper())
+print(input("Give me a string and I'll capitalize it: ").upper())
